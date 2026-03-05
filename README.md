@@ -1,8 +1,8 @@
-Documentazione
+# Documentazione
 
 ## 1. Panoramica del Progetto
 
-CoolRoof Analyzer è un'applicazione web full-stack che permette di analizzare l'albedo (riflettività) di qualsiasi tetto nel mondo usando immagini satellitari reali Sentinel-2, e di calcolare il risparmio energetico ottenibile applicando un cool roof coating (vernice bianca riflettente).
+[CoolRoof Analyzer](https://cool-roof-frontend.vercel.app/) è un'applicazione web full-stack che permette di analizzare l'albedo (riflettività) di qualsiasi tetto nel mondo usando immagini satellitari reali Sentinel-2, e di calcolare il risparmio energetico ottenibile applicando un cool roof coating (vernice bianca riflettente).
 
 ### 1.1 Problema che risolve
 
@@ -30,7 +30,7 @@ Fino ad oggi, quantificare questo beneficio richiedeva sopralluoghi fisici e str
 
 ## 2. Architettura del Sistema
 
-L'applicazione è divisa in due parti indipendenti che comunicano tramite API REST
+L'[applicazione](https://cool-roof-frontend.vercel.app/) è divisa in due parti indipendenti che comunicano tramite API REST
 
 ### 2.1 Schema architetturale
 
